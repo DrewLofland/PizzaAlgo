@@ -1,0 +1,5 @@
+1. Choose business
+2. Choose pizza
+3. Enter delivery address
+4. Enter payment info
+5. Order
