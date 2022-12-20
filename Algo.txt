@@ -6,3 +6,5 @@
 6. wait
 7. tip driver
 8. eat
+9. digest
+10. rest in food coma
